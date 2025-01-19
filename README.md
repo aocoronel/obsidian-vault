@@ -1,15 +1,8 @@
----
-aliases:
-  - GS
-source: https://github.com/aocoronel/obsidian-vault
-tags:
-  - reference
----
 # My Obsidian Vault Template
 
 - I call it a reasonably minimal vault
 
-![[footage.jpg]]
+![Obsidian Vault](https://raw.githubusercontent.com/aocoronel/obsidian-vault/refs/heads/main/Embed/footage.jpg)
 
 # Getting Started
 
