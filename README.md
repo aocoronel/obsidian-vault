@@ -146,7 +146,7 @@ By keeping the original content saved, you can now focus in writing in your own 
 
 ###### CSS Classes
 
-The used snippets in this vault are from [aocoronel/obsidian-snippets](https://github.com/aocoronel/obsidian-snippets), which includes the `colorizer` and `elegantvagrant`
+The used snippets in this vault are from [aocoronel/elegantvagrant](https://github.com/aocoronel/elegantvagrant/tree/main/obsidian), which includes the `colorizer` and `elegantvagrant`
 
 1. `img` - This centers all images
 2. `justify` - Justify text (disabled by default)
