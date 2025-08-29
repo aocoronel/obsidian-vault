@@ -6,4 +6,4 @@
 	- [[Markdown Showcase]]
 	- [[Markdown & LaTeX Cheatsheat (Basics)]]
 
-![Obsidian Vault](https://raw.githubusercontent.com/anstrinn/obsidian-vault/refs/heads/main/Embed/markdown-showcase.jpg)
+![Obsidian Vault](https://raw.githubusercontent.com/aocoronel/obsidian-vault/refs/heads/main/Embed/markdown-showcase.jpg)
